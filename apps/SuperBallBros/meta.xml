@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>Super Ball Bros</name>
+	<author>Eguin</author>
+	<version>2021-11-29</version>
+	<release_date>20211129263735</release_date>
+	<short_description>A simple smash bros like game for wii</short_description>
+	<long_description>Play with gamecube controllers
+Press the A button to join the game and press start when ready
+Use the Joystick to move, A to pick up guns and R to shoot, try not to fall off the edge or go too far to the sides.
+Enjoy!</long_description>
+</app>
